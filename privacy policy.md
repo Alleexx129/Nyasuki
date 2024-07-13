@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## Last Updated: [Date]
+## Last Updated: 2024-07-12 (12th of July 2024)
 
 This Privacy Policy describes how Lex ("we", "us", "our") collects, uses, and discloses information from users ("you", "your") of our Discord bot (the "Bot").
 
