@@ -8,9 +8,10 @@ This Privacy Policy describes how Lex ("we", "us", "our") collects, uses, and di
 - **User IDs**: We collect user IDs to identify users and provide personalized services.
 - **Chat Messages**: We collect chat messages to enable and improve the Bot's functionalities.
 - **Chat IDs**: We collect chat IDs to manage and respond to conversations within Discord.
+- **Channel IDs**: We collect channel IDs during the proccess of uwuifying message, to remove it from our data base just run the same command again. (/uwuchannel)
 
 ### 2. Data Encryption
-All collected data, including user IDs, chat messages, and chat IDs, are encrypted to protect your privacy and ensure data security.
+All collected data, including user IDs, channel IDs chat messages, and chat IDs, are encrypted to protect your privacy and ensure data security.
 
 ### 3. How We Use Your Information
 - **Service Provision**: We use the collected data to operate and maintain the Bot, respond to user queries, and provide support.
