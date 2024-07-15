@@ -6,6 +6,7 @@ Chat and Chat History
 We collect and store chat messages and chat history.
 User Information for Mutes and Bans
 We store user IDs related to mutes and bans.
+We also store channel IDs when using the uwuchannel command
 How Data is Collected
 
 # Data is collected through interactions with Nyasuki Bot on Discord servers. This includes:
