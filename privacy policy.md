@@ -36,6 +36,7 @@ We take reasonable measures to protect your information from unauthorized access
 
 This includes:
 - Making illegal substances
+- Getting any confidential information
 - Using any prompt to modify how the bot answers (DAN, Yes man, OverAdjustedGPT, AX1, ect.)
 - Getting the original prompt
 - Any activity that is against governement law or against discord's ToS
