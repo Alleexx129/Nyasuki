@@ -34,6 +34,12 @@ We may update this Privacy Policy from time to time. Minor changes will not be a
 ### 7. Security
 We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee its absolute security.
 
+This includes:
+- Making illegal substances
+- Using any prompt to modify how the bot answers (DAN, Yes man, OverAdjustedGPT, AX1, ect.)
+- Getting the original prompt
+- Any activity that is against governement law or against discord's ToS
+
 ### 8. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 - Email: alleexx129@gmail.com
